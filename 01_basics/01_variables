@@ -1,0 +1,8 @@
+const accountId=123
+let accountEmail="test@gmail.com"
+var accountPassword="3213"
+//use of var is discouraged because of issues with block and functional scope
+accountCity="doon"
+let accountState;
+// accountId=2
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
