@@ -1,0 +1,7 @@
+const myObj={
+    name:"shubham",
+    age:23,
+    college:"GEU"
+
+}
+console.log(myObj);
